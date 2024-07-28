@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="4" revision="0" build="300"/>
+    <region id="DeviceConfig">
+        <node id="root">
+            <attribute id="UseAsyncCompute" type="bool" value="false"/>
+            <attribute id="UseD24S8ForS8" type="bool" value="true"/>
+            <attribute id="Version" type="int32" value="2"/>
+        </node>
+    </region>
+</save>

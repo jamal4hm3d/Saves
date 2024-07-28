@@ -1,0 +1,40 @@
+Benchmark run: 10/29/22 12:54:39
+Min =  25.33 Max =  33.62 Avg =  33.17
+DisplayMode: Fullscreen
+Resolution: 2560X1440
+V-Sync: On
+Adaptive V-Sync: Off
+Max-FPS: 30.0
+Anti-Aliasing: On
+Motion-Blur: On
+Chromatic-Aberration: On
+Film-Grain: On
+Level of Detail: High
+Shadow Quality: High
+Texture Resolution: High
+Texture-Filtering: 16xAnisotropic
+Interactive Smoke/Fog: Off
+Interactive Paper Debris: Off
+Enhanced Rain: On
+Enhanced Light Shafts: On
+
+Benchmark run: 10/29/22 12:55:42
+Min = 120.46 Max = 158.25 Avg = 149.72
+DisplayMode: Fullscreen
+Resolution: 2560X1440
+V-Sync: Off
+Adaptive V-Sync: Off
+Max-FPS: 90.0
+Anti-Aliasing: On
+Motion-Blur: On
+Chromatic-Aberration: On
+Film-Grain: On
+Level of Detail: High
+Shadow Quality: High
+Texture Resolution: High
+Texture-Filtering: 16xAnisotropic
+Interactive Smoke/Fog: Off
+Interactive Paper Debris: Off
+Enhanced Rain: On
+Enhanced Light Shafts: On
+

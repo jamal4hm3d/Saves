@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="5" revision="0" build="400"/>
+    <region id="Config">
+        <node id="root">
+            <attribute id="Version64" type="int64" value="36169534507319298"/>
+            <children>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="AntiAliasing"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="0"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="CASEnabled"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="0"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="FakeFullscreenEnabled"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="0"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="Fullscreen"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="1"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="GraphicSettingsVersion"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="3"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="RefreshRateDenominator"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="1"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="RefreshRateNumerator"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="165"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="ResolutionUpscaleMode"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="3"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="SDRGamma"/>
+                    <attribute id="Type" type="int32" value="2"/>
+                    <attribute id="Value" type="float" value="1.0245597"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="ScreenHeight"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="1440"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="ScreenWidth"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="2560"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="Sharpness"/>
+                    <attribute id="Type" type="int32" value="2"/>
+                    <attribute id="Value" type="float" value="0.34999999"/>
+                </node>
+                <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="ShowGammaCalibration"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
